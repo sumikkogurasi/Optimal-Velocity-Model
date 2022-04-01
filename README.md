@@ -9,6 +9,8 @@ http://traffic.phys.cs.is.nagoya-u.ac.jp/~mstf/sample/ov.html
 
 # 操作方法
 操作メニューはエスケープキーを押すことで表示されます。
+それっぽい見た目になるパラメータはNumber = 40, Radius = 16, Sensitivity = 1, Random = 0.1です。
+Scaleは描画頻度を変更します。
 
 
 # 出典
@@ -23,6 +25,8 @@ http://traffic.phys.cs.is.nagoya-u.ac.jp/~mstf/sample/ov_e.html
 
 # How to use
 The operation menu is displayed by pressing the escape key.
+The parameters to get a similar look are Number = 40, Radius = 16, Sensitivity = 1, and Random = 0.1.
+Scale changes the drawing frequency.
 
 # Reference
 The following paper was used as a reference. 
