@@ -1,6 +1,6 @@
 # プレイ動画
 
-[![](https://img.youtube.com/vi/a1B_t2XI800/0.jpg)](https://img.youtube.com/vi/a1B_t2XI800&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521/0.jpg)
+[![](https://img.youtube.com/vi/a1B_t2XI800/0.jpg)](https://www.youtube.com/watch?v=a1B_t2XI800&ab_channel=%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AD%25E3%2582%258B%2521)
 
 # Optimal Velocity modelって何？
 渋滞モデルです。
